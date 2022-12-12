@@ -1,0 +1,23 @@
+.photo {
+    text-align: center;
+}
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50% ;
+    border: 2px solid lightseagreen;
+}
+.main {
+    text-align: center;
+}
+.address {
+    text-align: center;
+}
+.education {
+    border-top: 5px solid lightseagreen;
+    border-bottom: 3px solid lightseagreen;
+    font-family: "Apple Color Emoji";
+}
+ul {
+    font-family: inherit;
+}
